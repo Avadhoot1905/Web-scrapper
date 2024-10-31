@@ -20,4 +20,4 @@ This project is a simple web scraper that retrieves the names of the top movies 
    ```bash
    git clone https://github.com/Avadhoot1905/Web-scrapper.git
 
-### All data and content used in this project belong to IMDb and are used here for educational purposes only.
+### All data and content used in this project belong to IMDb and are used here for educational purposes only. The author does not encourage anyone to use this module for any illegal or un-ethical project/purpose.
