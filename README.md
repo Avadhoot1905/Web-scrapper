@@ -1,4 +1,4 @@
-# IMDb Top Movies Scraper
+# Top 200 Movies Scraper
 
 ## Overview
 This project is a simple web scraper that retrieves the names of the top movies from IMDb's Top 250 movies page. It utilizes Python's `requests` library to fetch the webpage content and `BeautifulSoup` to parse the JSON-LD structured data.
