@@ -18,6 +18,6 @@ This project is a simple web scraper that retrieves the names of the top movies 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/imdb-top-movies-scraper.git
+   git clone [https://github.com/yourusername/imdb-top-movies-scraper.git](https://github.com/Avadhoot1905/Web-scrapper.git)
 
 ### All data and content used in this project belong to IMDb and are used here for educational purposes only.
